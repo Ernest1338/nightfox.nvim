@@ -37,13 +37,7 @@ local config = require("nightfox.config")
 local M = {}
 
 M.foxes = {
-  "carbonfox",
-  "dawnfox",
-  "dayfox",
-  "duskfox",
-  "nightfox",
-  "nordfox",
-  "terafox",
+  "gruvfox",
 }
 
 local function override(color, ovr)

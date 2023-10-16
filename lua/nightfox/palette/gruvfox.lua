@@ -2,7 +2,7 @@ local C = require("nightfox.lib.color")
 local Shade = require("nightfox.lib.shade")
 
 local meta = {
-  name = "nordfox",
+  name = "gruvfox",
   light = false,
 }
 
@@ -22,7 +22,7 @@ local palette = {
   comment = "#60728a",
 
   bg0     = "#232831", -- Dark bg (status line and float)
-  bg1     = "#2e3440", -- Default bg
+  bg1     = "#282828", -- Default bg
   bg2     = "#39404f", -- Lighter bg (colorcolm folds)
   bg3     = "#444c5e", -- Lighter bg (cursor line)
   bg4     = "#5a657d", -- Conceal, border fg
